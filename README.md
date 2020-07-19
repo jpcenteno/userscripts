@@ -1,6 +1,10 @@
 # JPCenteno's Userscripts
 
-This repo is my (small) collection of userscripts. Most of them are focused on
-minimizing distractions.
+This is my personal collection of user-scripts. Their main aim is no-surfing
+and digital minimalism.
 
-Code might be pretty ugly because JS is not my thing.
+## Pinterest
+
+![Pinterest](img/pinterest.png)
+
+- Hides the homepage feed to prevent mindless scrolling.
